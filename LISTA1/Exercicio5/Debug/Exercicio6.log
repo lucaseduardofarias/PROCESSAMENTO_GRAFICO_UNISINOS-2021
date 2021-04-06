@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+F:\Projeto_Processamento\ExemploTriangulo\LISTA1\Exercicio6\Origem.cpp(205,39): warning C4305: '+=': truncamento de 'double' para 'float'
+F:\Projeto_Processamento\ExemploTriangulo\LISTA1\Exercicio6\Origem.cpp(206,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+F:\Projeto_Processamento\ExemploTriangulo\LISTA1\Exercicio6\Origem.cpp(214,39): warning C4305: '-=': truncamento de 'double' para 'float'
+F:\Projeto_Processamento\ExemploTriangulo\LISTA1\Exercicio6\Origem.cpp(215,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Exercicio6.vcxproj -> F:\Projeto_Processamento\ExemploTriangulo\LISTA1\Debug\Exercicio6.exe
