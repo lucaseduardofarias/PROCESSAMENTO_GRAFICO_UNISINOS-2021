@@ -1,0 +1,9 @@
+﻿  GameObject.cpp
+C:\Users\maith\OneDrive\Área de Trabalho\unisinos_2021-1\Processamento Grafico\PG-2020-2-master\Lista05\Ex02\Shader.h(14,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  Material.cpp
+  SceneManager.cpp
+C:\Users\maith\OneDrive\Área de Trabalho\unisinos_2021-1\Processamento Grafico\PG-2020-2-master\Lista05\Ex02\Shader.h(14,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  Source.cpp
+C:\Users\maith\OneDrive\Área de Trabalho\unisinos_2021-1\Processamento Grafico\PG-2020-2-master\Lista05\Ex02\Shader.h(14,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  stb_image.cpp
+  Gerando Código...

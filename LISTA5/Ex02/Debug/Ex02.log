@@ -1,0 +1,11 @@
+﻿  GameObject.cpp
+  Material.cpp
+  SceneManager.cpp
+F:\Projeto_Processamento\ExemploTriangulo\LISTA5\Ex02\SceneManager.cpp(116,20): warning C4018: '<': incompatibilidade de signed/unsigned
+F:\Projeto_Processamento\ExemploTriangulo\LISTA5\Ex02\SceneManager.cpp(208,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Source.cpp
+  stb_image.cpp
+  Gerando Código...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Ex02.vcxproj -> F:\Projeto_Processamento\ExemploTriangulo\LISTA5\Debug\Ex02.exe
