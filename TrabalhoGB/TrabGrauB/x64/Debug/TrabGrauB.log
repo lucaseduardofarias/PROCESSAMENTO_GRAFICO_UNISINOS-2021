@@ -1,0 +1,12 @@
+﻿  Personagem.cpp
+F:\Projeto_Processamento\ExemploTriangulo\PROCESSAMENTO_GRAFICO_UNISINOS-2021\TrabalhoGB\TrabGrauB\Shader.h(10,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  Sprite.cpp
+F:\Projeto_Processamento\ExemploTriangulo\PROCESSAMENTO_GRAFICO_UNISINOS-2021\TrabalhoGB\TrabGrauB\Shader.h(10,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  SceneManager.cpp
+F:\Projeto_Processamento\ExemploTriangulo\PROCESSAMENTO_GRAFICO_UNISINOS-2021\TrabalhoGB\TrabGrauB\Shader.h(10,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  Source.cpp
+F:\Projeto_Processamento\ExemploTriangulo\PROCESSAMENTO_GRAFICO_UNISINOS-2021\TrabalhoGB\TrabGrauB\Shader.h(10,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  stb_image.cpp
+  TileIso.cpp
+F:\Projeto_Processamento\ExemploTriangulo\PROCESSAMENTO_GRAFICO_UNISINOS-2021\TrabalhoGB\TrabGrauB\Shader.h(10,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  Gerando Código...
